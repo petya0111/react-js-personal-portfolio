@@ -63,7 +63,7 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link
+              {/* <Link
                 activeClass="navbar--active-content"
                 spy={true}
                 smooth={true}
@@ -73,7 +73,7 @@ function Footer() {
                 className="text-md"
               >
                 Testimonials
-              </Link>
+              </Link> */}
             </li>
           </ul>
         </div>

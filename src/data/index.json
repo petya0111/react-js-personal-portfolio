@@ -15,13 +15,7 @@
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
+      "title": "Blockchain Auditing",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     }
   ],
@@ -29,8 +23,8 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Society Project",
+      "description": "This is an all purpose social network practice project, maintain by a group of highly motivated young developers. Communication is leaded with Agile Methodology with Daily Standups and Sprint of tasks. Tech stack The client app is a NextJS TypeScript project, using MUI React components. The server application is a Java application with Spring Boot framework, Postgre database, app is dockerized.",
       "link": "View In Github"
     },
     {

@@ -9,15 +9,15 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          With my experience as a web2 developer in front-end and back-end
+for the past 7+ years. I wanted to dive deep into web3 blockchain
+technologies.
+
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          Last year doing web3 projects showed me that I love to do that and be
+in this kind of community. It is rewarding, and you are fully committed
+to improving technology and the future.
           </p>
         </div>
       </div>
