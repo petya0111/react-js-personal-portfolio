@@ -41,6 +41,7 @@
       "src": "./img/placeholder-image-2.png",
       "title": "BookLibrary hardhat",
       "description": "Book library project built with Solidity contracts & NextJS frontend. Covered with tests. Setup for testnet networks and deploy script.",
+      "viewin": "View In Github",
       "link": "https://github.com/petya0111/BookLibrary-hardhat"
     }
   ],

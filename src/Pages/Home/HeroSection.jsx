@@ -11,12 +11,16 @@ export default function HeroSection() {
           </h1>
           <p className="hero--section-description">
           Lifelong learner. Full-time Kotlin backend developer.
-          </p>
+          </p><p></p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <div>
+          <p><a href="https://t.me/paspe0111" className="btn btn-primary">Get In Touch</a>
+          </p>
+        
+        </div>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/hero_img.png" width={150} height={150} alt="Hero Section" />
       </div>
     </section>
   );
