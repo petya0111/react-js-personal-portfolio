@@ -24,22 +24,24 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Society Project",
-      "description": "This is an all purpose social network practice project, maintain by a group of highly motivated young developers. Communication is leaded with Agile Methodology with Daily Standups and Sprint of tasks. Tech stack The client app is a NextJS TypeScript project, using MUI React components. The server application is a Java application with Spring Boot framework, Postgre database, app is dockerized.",
-      "link": "View In Github"
+      "description": "This is an all purpose social network practice project, maintain by a group of highly motivated young developers. The client app is a NextJS TypeScript project, using MUI React components. The server application is a Java application with Spring Boot framework, Postgre database, app is dockerized.",
+      "viewin": "View In Github",
+      "link":"https://github.com/Society-Project/Society"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "NFT marketplace",
+      "description": "Group project for NFT marketplace with option for listing nft's watermarked with brand logo. Users can buy and hold NFTs. Every user can list their NFT and every new NFT is 1% more costly than the previous.",
+      "viewin": "View In Github",
+      "link":"https://github.com/QuanterallAcademy-DeFi-Group1/NFT-marketplace"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "BookLibrary hardhat",
+      "description": "Book library project built with Solidity contracts & NextJS frontend. Covered with tests. Setup for testnet networks and deploy script.",
+      "link": "https://github.com/petya0111/BookLibrary-hardhat"
     }
   ],
   "testimonial": [
@@ -47,25 +49,17 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Small community that we administrate. Showing up goals and achieving them",
+      "author_name": "rishard",
+      "author_designation": "ShowUp Club"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "Group of auditors in contests",
+      "author_name": "Crimson Rat",
+      "author_designation": "@reachlabs"
     }
   ]
 }

@@ -90,7 +90,7 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            {/* <Link
+            <Link
               onClick={closeMenu}
               activeClass="navbar--active-content"
               spy={true}
@@ -101,22 +101,19 @@ function Navbar() {
               className="navbar--content"
             >
               Testimonials
-            </Link> */}
+            </Link>
           </li>
         </ul>
       </div>
-      <Link
+      <a target='_blank'
         onClick={closeMenu}
         activeClass="navbar--active-content"
         spy={true}
         smooth={true}
         offset={-70}
         duration={500}
-        to="Contact"
         className="btn btn-outline-primary"
-      >
-        Contact Me
-      </Link>
+        rel='noopener noreferrer' href="https://t.me/paspe0111">Contact Me</a>
     </nav>
   );
 }
